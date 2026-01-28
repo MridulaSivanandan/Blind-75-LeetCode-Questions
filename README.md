@@ -13,16 +13,16 @@ I found a list of Blind 75 Leetcode problems. if you want to practice more quest
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ---
 
 ## Binary
 
-- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
-- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [x] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- [x] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [x] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ---
