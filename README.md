@@ -29,17 +29,17 @@ I found a list of Blind 75 Leetcode problems. if you want to practice more quest
 
 ## Dynamic Programming
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
-- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
-- [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
-- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
-- [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [x] [Word Break Problem](https://leetcode.com/problems/word-break/)
+- [x] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
+- [x] [House Robber](https://leetcode.com/problems/house-robber/)
+- [x] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- [x] [Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [x] [Jump Game](https://leetcode.com/problems/jump-game/)
 
 ---
 
@@ -79,10 +79,10 @@ I found a list of Blind 75 Leetcode problems. if you want to practice more quest
 
 ## Matrix
 
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [x] [Word Search](https://leetcode.com/problems/word-search/)
 
 ---
 
